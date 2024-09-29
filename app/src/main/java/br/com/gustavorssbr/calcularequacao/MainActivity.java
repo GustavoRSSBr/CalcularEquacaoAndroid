@@ -1,3 +1,7 @@
+/*
+ *@author:Gustavo Rodrigues Santos Silva
+ * RA: 1110481922011
+ */
 package br.com.gustavorssbr.calcularequacao;
 
 import android.os.Bundle;
