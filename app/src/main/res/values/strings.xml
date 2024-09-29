@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalcularEquacao</string>
+    <string name="valor_a">Valor A</string>
+    <string name="valor_b">Valor B</string>
+    <string name="valor_c">Valor C</string>
+    <string name="calcular">Calcular</string>
+    <string name="delta">Delta =</string>
+    <string name="x1">X1 =</string>
+    <string name="x2">X2 =</string>
+    <string name="tv_invalido_nao_equacao">Não é uma equação de 2° grau</string>
+    <string name="tv_invalido_nao_tem_raiz">A equação não contém raizes reais</string>
+    <string name="tv_invalido_dado">Dado inválido, digite dados válidos</string>
+</resources>
